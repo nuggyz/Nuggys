@@ -1,4 +1,4 @@
-# Blippz
+# NUGGYS
 
 A React application built with Vite.
 
